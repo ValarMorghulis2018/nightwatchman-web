@@ -22,4 +22,4 @@
 3. 如果您有文章推荐请以 markdown 格式发送到邮箱 liujie@smartquerier.com。
 
 <!-- git remote add origin git@github.com:ValarMorghulis2018/nightwatchman-web.git -->
-git remote set-url origin git@github.com:ValarMorghulis2018/nightwatchman-web.git
+<!-- git remote set-url origin git@github.com:ValarMorghulis2018/nightwatchman-web.git -->
